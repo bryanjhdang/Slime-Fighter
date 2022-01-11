@@ -1,6 +1,6 @@
 Controls:
-Use WASD to move
-Left-click to shoot in direction of the mouse
+- Use WASD to move
+- Left-click to shoot in direction of the mouse
 
 Power-ups:
 - Different magic types
