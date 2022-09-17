@@ -8,7 +8,10 @@ You are a young magician lost in a cave. Attack all the slimes and defeat the fi
 - Beat enough slimes to fill up the green bar, then face the boss!
 
 ### Power-ups
-- Different magic types (fire, ice, lightning)
+- Different magic types
+    - Fire (standard)
+    - Ice (slower, more damge)
+    - Lightning (faster, less damage, homing)
 - Shield
 - Speed boost
 - Health packs
